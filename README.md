@@ -23,7 +23,7 @@ Pretty Bookmark is an easy-to-use tool for creating and organizing your bookmark
 
 ## Demo
 
-https://pretty-bookmark.vercel.app/
+https://prettybookmark.vercel.app/
 
 
 ## Run Locally
