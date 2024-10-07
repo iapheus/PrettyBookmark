@@ -7,10 +7,10 @@ Pretty Bookmark is an easy-to-use tool for creating and organizing your bookmark
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark4.png" width="500" style="display:inline-block;"/>
-  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark.png" width="500" style="display:inline-block;"/>
-  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark2.png" width="500" style="display:inline-block;"/>
-  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark3.png" width="500" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark4.png" width="300" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark.png" width="300" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark2.png" width="300" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark3.png" width="300" style="display:inline-block;"/>
 </p>
 
 
