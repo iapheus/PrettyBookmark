@@ -1,7 +1,7 @@
 
 # Pretty Bookmark
 
-Pretty Bookmark is an easy-to-use tool for creating and organizing your bookmarks. It allows bulk import from browsers and lets you customize collections, making it simple to manage your favorite links in one place.
+Pretty Bookmark is an easy-to-use tool for creating and organizing your bookmarks. It allows bulk import from browsers and lets you customize collections, making it simple to manage your favorite links in one place. 
 
 
 ## Screenshots
