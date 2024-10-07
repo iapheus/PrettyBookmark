@@ -1,25 +1,29 @@
 
-# Project Title
+# Pretty Bookmark
 
-A brief description of what this project does and who it's for
+Pretty Bookmark is an easy-to-use tool for creating and organizing your bookmarks. It allows bulk import from browsers and lets you customize collections, making it simple to manage your favorite links in one place.
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<p align="center">
+  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark4.png" width="500" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark.png" width="500" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark2.png" width="500" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark3.png" width="500" style="display:inline-block;"/>
+</p>
 
 
 ## Features
 
 - Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- The ability to create and publish bookmark collections.
+- Users can easily import bookmarks in bulk from JSON files exported from browsers like Firefox.
 
 
 ## Demo
 
-Insert gif or link to demo
+https://pretty-bookmark.vercel.app/
 
 
 ## Run Locally
@@ -27,13 +31,13 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/iapheus/PrettyBookmark.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd PrettyBookmark
 ```
 
 Install dependencies
@@ -45,7 +49,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 
